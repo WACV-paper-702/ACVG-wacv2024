@@ -19,4 +19,4 @@ export CKPT_D=241
 export CKPT_A=191
 export TEST_G=False
 # export DATAPATH="../data/RoAM_dataset/processed/train"
-export DATAPATH="../RoAM_dataset/processed/test"
+export DATAPATH="../data/RoAM_dataset/processed/test"
