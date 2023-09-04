@@ -261,7 +261,7 @@ def main(epochs=2500,
           
 
 
-      results_prefix= ("half_fps_Roam_Full-v1_{}".format(test_config['model_name'])
+      results_prefix= ("Roam_Full-v1_{}".format(test_config['model_name'])
           + "_GPU_id="+str(gpu)
           + "_image_w="+str(image_w)
           + "_K="+str(past_TS)
